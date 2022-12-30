@@ -51,17 +51,24 @@ Em Contrução
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
 ```
 <Para fazer uso do Migrations usei os comandos especificado abaixo
-Em Contrução
 
+****************---
 
+Para rodar a migrations entre na pasta  ->  cd .\CursosDeIdiomas.Infra\
 
+****************---
 
+Na sequencia  use o comando para adcionar-> dotnet ef --startup-project ..\CursosDeIdiomas.Services\ migrations add NomeDaMigrations --context SqlContext
+
+****************---
+
+para encerra use este comando para da um update.-> dotnet ef --startup-project ..\CursosDeIdiomas.Services\  database update --context SqlContext.>
+```
 
 ## :soon: Implementação futura
 * O que será implementado na próxima sprint?
 Projeto em fase inicial, estou replicando as metodologias usadas no projeto CursoDeIdiomas nesse caso iremos criar cruds de Produto e cliente.
-E faremos possíveis melhorias aplicando regra de negócio. 
-
+E faremos possíveis melhorias aplicando regra de negócio.
 
 ## :handshake: Colaboradores
 https://github.com/BrunoFaria2021
@@ -72,5 +79,4 @@ LEFT
 ">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=DESENVOLVIMENTO CONCLUIDO &color=GREEN&style=for-the-badge"/>
 </p>
-
 
