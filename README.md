@@ -53,10 +53,15 @@ Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando 
 <Para fazer uso do Migrations usei os comandos especificado abaixo
 Em Contrução
 
+
+
+
+
 ## :soon: Implementação futura
 * O que será implementado na próxima sprint?
 Projeto em fase inicial, estou replicando as metodologias usadas no projeto CursoDeIdiomas nesse caso iremos criar cruds de Produto e cliente.
 E faremos possíveis melhorias aplicando regra de negócio. 
+
 
 ## :handshake: Colaboradores
 https://github.com/BrunoFaria2021
@@ -65,6 +70,7 @@ https://github.com/BrunoFaria2021
 <p align="
 LEFT
 ">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM-DESENVOLVIMENTO &color=GREEN&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=DESENVOLVIMENTO CONCLUIDO &color=GREEN&style=for-the-badge"/>
 </p>
+
 
